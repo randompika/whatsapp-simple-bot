@@ -1,0 +1,16 @@
+{
+  "name": "whatsappbot",
+  "version": "1.0.0",
+  "description": "A simple whatsapp bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Pika",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "math-expression-evaluator": "^1.2.22",
+    "venom-bot": "^1.0.9"
+  }
+}
