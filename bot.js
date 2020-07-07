@@ -3,14 +3,17 @@ var mexp = require('math-expression-evaluator');
 var fs = require('fs')
 var https = require('https')
 
-
-
+//////////////////////////////////////
+///////// Update Values: ////////
 var botname = "Pika"; //your bot name here, e.g, if you bot name is "Pika", then the bot will monitor all chats with Pika keyword
 var botnumber = "91xxxxxxxxx"; //bot mobile number
+var ytapikey = "xxxxxxxxxxxxxxxxxxxxxxxx"; //your Google Developer API key, with YouTube Data search enabled
+////////////////End///////////////////
+
+//custom block sticker feature, works for only one
 var bannedsticker = "91xxxxxxxxx";  //enter mobile number of person/group creator in which you don't want sticker to be sent
 
-var ytapikey = "xxxxxxxxxxxxxxxxxxxxxxxx"; //your Google Developer API key, with YouTube Data search enabled
-
+//Turn function off and on
 
 var songactive = false; //you need to configure your own song database api
 var mathactive = true;
