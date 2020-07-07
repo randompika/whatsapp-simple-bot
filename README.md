@@ -8,7 +8,7 @@ A whatsapp bot made on NodeJS with Venom-Bot module
 4. ~~`<bot name> song <query>` to send songs from your api~~ (**This function is disabled by default, you need to add your own custom api**)
 
 ## Requirements:
-1. NodeJS 10.x+
+1. Install NodeJS 10.x+
 2. Google YouTube Data Search API Access Key, can be obtained from https://console.developers.google.com/apis/library/youtube.googleapis.com
 
 ## Instructions:
@@ -20,10 +20,9 @@ A whatsapp bot made on NodeJS with Venom-Bot module
    ```
 
 ## How to Use Bot?
-1. Clone the repository locally
-2. Install NodeJS
-3. On the directory:
+1. Clone this repository locally
+2. On the directory:
   `npm install` to install al required modules
-4. Start Bot:
+3. Start Bot:
   `npm start`
-5. Scan the QR Code that would appear on the screen and your bot will start.
+4. Scan the QR Code that would appear on the screen and your bot will start.
