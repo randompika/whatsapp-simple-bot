@@ -9,7 +9,7 @@ A whatsapp bot made on NodeJS with Venom-Bot module
 
 ## Requirements:
 1. NodeJS 10.x+
-2. Google YouTube Data Search API
+2. Google YouTube Data Search API Access Key, can be obtained from https://console.developers.google.com/apis/library/youtube.googleapis.com
 
 ## Instructions:
 1. Open `bot.js` and change the following variables to make the bot work:
