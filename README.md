@@ -20,4 +20,4 @@ A whatsapp bot made on NodeJS with Venom-Bot module
   `npm install` to install al required modules
 4. Start Bot:
   `npm start`
-  
+5. Scan the QR Code that would appear on the screen and your bot will start.
